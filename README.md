@@ -4,9 +4,9 @@
 In the words of my friend Amicitia:
 > Don't overthink the situation you're in. It all works out in the end.
 
-### [GitHub Profile](https://github.com/Sash132/)
+##### [GitHub Profile](https://github.com/Sash132/)
 
-### Email: sgollamu@ucsd.edu
+##### Email: sgollamu@ucsd.edu
 
 ### Top 3 Favorite Programming Languages:
 1. Java
