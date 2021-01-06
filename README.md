@@ -6,6 +6,8 @@ In the words of my friend Amicitia:
 
 ##### [GitHub Profile](https://github.com/Sash132/)
 
+![img_test](/img.jpg)
+
 ##### Email: sgollamu@ucsd.edu
 
 ### Top 3 Favorite Programming Languages:
