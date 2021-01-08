@@ -1,6 +1,11 @@
 # Sashwath Gollamudi's GitHub Page
 ## **Anything** related to my *coding experience* and/or *projects* I've done can be found on this site!
 
+Content Direct Quick Links:      
+- [Languages](https://github.com/Sash132/Sash132.github.io#top-3-favorite-programming-languages)
+- [Classes](https://github.com/Sash132/Sash132.github.io#current-classes)
+- [To-Do List](https://github.com/Sash132/Sash132.github.io#current-to-do-list)
+
 My current favorite programming language is ~~C++~~ ~~Python~~ Java!
 
 In the words of my friend Amicitia:
