@@ -19,9 +19,17 @@ In the words of my friend Amicitia:
 
 ### Current Classes:
 - CSE 101
+  - Class about the design of algorithms
+  - Taught by Professor Miles Jones
 - CSE 110
+  - Class about software engineering
+  - Taught by Professor Thomas Powell
 - POLI 27
+  - Class about ethics
+  - Taught by Professor Samuel Elgin
 - TDGE 124
+  - Class about cult films
+  - Taught by Professor Julia Fulton
 
 ### Current To-Do List:
 - [x] Finish this website.
